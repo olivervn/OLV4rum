@@ -1,5 +1,5 @@
 <?php
-
+$config['enableTfa'] = false;
 $config['db']['host'] = 'olivervn.lima-db.de';
 $config['db']['port'] = '3306';
 $config['db']['username'] = 'USER390994_olv';
